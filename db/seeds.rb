@@ -8,3 +8,5 @@
 
 
 response = HTTParty.get("https://disneyworld.disney.go.com/attractions/")
+
+binding.pry
